@@ -1,6 +1,10 @@
 # 📂 Portfolio Progetti - Laura Perulli
 
-Benvenuti nel portfolio dei progetti che ho realizzato. 
+Benvenuti nel mio portfolio, se sei qui è perchè ti interessa consultare i progetti che ho realizzato. Buona visione!!!
+
+# 🤝 Mi presento
+Ciao, sono LAURA PERULLI 
+### BSc in "Statistics e Big Data"
 
 Di seguito quelli principali:
 
