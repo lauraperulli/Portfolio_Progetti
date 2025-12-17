@@ -2,11 +2,24 @@
 
 Benvenuti nel mio portfolio, se sei qui è perchè ti interessa consultare i progetti che ho realizzato. Buona visione!!!
 
-# 🤝 Mi presento
-Ciao, sono LAURA PERULLI 
-### BSc in "Statistics e Big Data"
+### 🤝 Mi presento
+Ciao, sono LAURA PERULLI | BSc in "Statistics e Big Data".
 
-Di seguito quelli principali:
+## 💡 Progetti realizzati
+### 📊 [Predictive Analysis: Chicago Crime](https://github.com/lauraperulli/chicago_crime_prediction)
+Progetto Python incentrato sull'implementazione e l'addestramento di un modello di AI con l'utilizzo della **Regressione Logistica** come algoritmo di Machine Learning.
+- **Tech**: Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Scikit-Learn.
 
-### 📊 Data Science & ML
-* **[Analisi Predittiva Crimini Chicago](https://github.com/lauraperulli/chicago_crime_prediction)**: Modello di Regressione Logistica con ROC AUC 0.78.
+---
+
+### 🛠️ Skills
+- **Data Analysis:** Python (Pandas, Numpy), SQl.
+- **Data Visualization:** Matplotlib, Seaborn, Folium.
+- **Machine Learning:** Scikit-Learn.
+- **Lingue:** Italiano, Inglese (B1).
+
+---
+
+### 📬 Contatti
+- **LinkedIn:** http://www.linkedin.com/in/laura-perulli-b42378340
+- **Email:** laura.perulli@hotmail.com
