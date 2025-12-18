@@ -17,20 +17,24 @@ Un ChatBot Telegram AI avanzato che integra visione artificiale e ricerca semant
 Analisi statistica e predittiva dei crimini nella città di Chicago, realizzazione di un progetto in Python con l'addestramento di un modello di AI con il Machine Learning.
 * **Core Tech:** Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Scikit-Learn.
 * **Highlight:** Implementazione di un modello di **Regressione Logistica** con gestione dello sbilanciamento delle classi e visualizzazioni geospaziali interattive.
-
+  
 ---
+## 🛠️ Skills
 
-### 🛠️ Skills
-| Area | Tecnologie & Strumenti |
+| Categoria | Competenze e Tecnologie |
 | :--- | :--- |
-| **Data Analysis:** | Python (Pandas, Numpy), SQL |
-| **Data Visualization:** | Matplotlib, Seaborn, Folium |
-| **Machine Learning:** | Scikit-Learn |
-| **Generative AI:** | LangChain, RAG, OpenAI API, Prompt Engineering |
+| **Linguaggi di Programmazione** | **Buona conoscenza**: Python, SQL, Visual Basic, C, C++, Scratch, PHP, HTML, CSS <br> **Base**: JavaScript, R |
+| **Data Science & AI** | Machine Learning, Deep Learning, RAG, NLP, Data Mining, Big Data (Hadoop, Spark), IoT |
+| **Generative AI** | LangChain, Prompt Engineering, OpenAI API (GPT-4o, Vision, Whisper) |
+| **Data Visualization** | Matplotlib, Seaborn, Folium, Power BI, Google Looker Studio, Google Sheets |
+| **Database** | MySQL, NoSQL (MongoDB), ChromaDB (Vector DB) |
+| **Software** | Pacchetto Office (Excel Avanzato, Access), Adobe Photoshop, After Effects, Canva |
+| **Sistemi Gestionali** | Nozioni di CRM e ERP |
 
 ---
 
-## 🌍 Lingue
+## 🌍 Lingue & Certificazioni
+* **Certificazioni**: ECDL Standard (IT Security, Presentation, Online Collaboration).
 * 🇮🇹 **Italiano**: Madrelingua
 * 🇬🇧 **Inglese**: Livello B1
 
