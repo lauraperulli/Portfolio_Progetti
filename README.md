@@ -3,7 +3,7 @@
 Benvenuti nel mio portfolio, se sei qui è perchè ti interessa consultare i progetti che ho realizzato. Buona visione!!!
 
 ### 🤝 Mi presento
-Ciao, sono LAURA PERULLI | BSc in "Statistics e Big Data".
+Ciao, sono LAURA PERULLI | **BSc in "Statistics e Big Data"**.
 
 ## 💡 Progetti realizzati
 ### 📊 [Predictive Analysis: Chicago Crime](https://github.com/lauraperulli/chicago_crime_prediction)
