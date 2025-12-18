@@ -8,7 +8,7 @@ La mia passione è trasformare dati complessi in informazioni azionabili e costr
 
 ## 💡 Progetti in evidenza
 
-### 🍿 [Film & Series Bot: RAG e LangChain](https://github.com/lauraperulli/filmseries_chatbot.git)
+### 🍿 [Film & Series Bot: RAG e LangChain](https://github.com/lauraperulli/film_series_chatbot.git)
 Un ChatBot Telegram AI avanzato che integra visione artificiale e ricerca semantica su documenti.
 * **Core Tech:** Python, LangChain, OpenAI (GPT-4o & Whisper), ChromaDB.
 * **Highlight:** Implementazione di una pipeline RAG (Retrieval-Augmented Generation) e analisi multimodale (immagini e audio).
