@@ -3,7 +3,7 @@
 > Benvenuti nel mio spazio digitale. Qui raccolgo i progetti più significativi che ho realizzato. Buona visione!!!
 
 ### 🤝 Chi sono
-Ciao, sono LAURA PERULLI | **BSc in "Statistics e Big Data"**. 
+Ciao, sono LAURA PERULLI | **BSc in "Statistics and Big Data"**. 
 La mia passione nasce dall'intersezione tra l'analisi rigorosa del dato e le infinite potenzialità dell'Intelligenza Artificiale.
 
 Credo fermamente che i dati, se ascoltati correttamente, siano la chiave per risolvere problemi complessi e prevedere scenari futuri. Il mio obiettivo è trasformare volumi di informazioni grezze in insight strategici e soluzioni intelligenti, combinando modelli statistici classici con le più moderne tecnologie di Machine Learning e Generative AI.
