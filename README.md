@@ -4,7 +4,9 @@
 
 ### 🤝 Chi sono
 Ciao, sono LAURA PERULLI | **BSc in "Statistics e Big Data"**. 
-La mia passione è trasformare dati complessi in informazioni azionabili e costruire soluzioni intelligenti utilizzando Python e le tecnologie AI più avanzate.
+La mia passione nasce dall'intersezione tra l'analisi rigorosa del dato e le infinite potenzialità dell'Intelligenza Artificiale.
+
+Credo fermamente che i dati, se ascoltati correttamente, siano la chiave per risolvere problemi complessi e prevedere scenari futuri. Il mio obiettivo è trasformare volumi di informazioni grezze in insight strategici e soluzioni intelligenti, combinando modelli statistici classici con le più moderne tecnologie di Machine Learning e Generative AI.
 
 ## 💡 Progetti in evidenza
 
@@ -14,7 +16,7 @@ Un ChatBot Telegram AI avanzato che integra visione artificiale e ricerca semant
 * **Highlight:** Implementazione di una pipeline RAG (Retrieval-Augmented Generation) e analisi multimodale (immagini e audio).
 
 ### 📊 [Predictive Analysis: Chicago Crime](https://github.com/lauraperulli/chicago_crime_prediction)
-Analisi statistica e predittiva dei crimini nella città di Chicago, realizzazione di un progetto in Python con l'addestramento di un modello di AI con il Machine Learning.
+Analisi statistica e predittiva dei crimini nella città di Chicago, realizzazione di un progetto in Python con l'addestramento di un modello di AI attraverso l'uso del Machine Learning.
 * **Core Tech:** Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Scikit-Learn.
 * **Highlight:** Implementazione di un modello di **Regressione Logistica** con gestione dello sbilanciamento delle classi e visualizzazioni geospaziali interattive.
   
